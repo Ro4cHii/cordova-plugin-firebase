@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "888409357321",
+    "firebase_url": "https://blitzer-feed-wolfsburg.firebaseio.com",
+    "project_id": "blitzer-feed-wolfsburg",
+    "storage_bucket": "blitzer-feed-wolfsburg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888409357321:android:c3697e76eaefa0e2",
+        "android_client_info": {
+          "package_name": "de.roachii.wobblitzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888409357321-0jejlcmslaa7i4vcms3sr9hq6r2lnqjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC_oP4rLEHn-W9-jsjscr7wMNsbQxrjgM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
